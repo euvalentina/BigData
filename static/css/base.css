@@ -945,6 +945,7 @@ h2 svg, h3 svg, h4 svg {
 .text-intro svg,.text-quote p svg,.wall p svg,.try svg {
   margin-top: -.4rem;
 }
+
 .flexblock li h2 svg,.flexblock li h3 svg {margin-top: 0;
 }
 
@@ -1044,6 +1045,13 @@ h1 [class*="bg-"],h2 [class*="bg-"],h3 [class*="bg-"] {
 
 .text-intro,[class*="content-"] p {
   font-size: 2.4rem;
+  line-height: 4rem;
+
+}
+
+
+p.subtitle{
+  font-size: 1.8rem;
   line-height: 4rem;
 }
 /* -- Serif -- */
