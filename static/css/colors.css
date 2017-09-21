@@ -920,9 +920,13 @@ background-color:rgba(255,255,255 , 0.3);
 }
 */
 .titulo {
-  color: #48D1CC!important;
+  color: #6959CD!important;
 }
 
+.sozinho{
+  font-size: 80px;
+  color: black;
+}
 
 .titulo11 {
   color: #B0C4DE!important;
