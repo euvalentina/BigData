@@ -924,9 +924,19 @@ background-color:rgba(255,255,255 , 0.3);
 }
 
 .sozinho{
-  font-size: 80px;
-  color: black;
+  font-size: 120px;
+  color: white;
+  text-shadow: 4px;
+  font-weight: bold;
 }
+
+.sozinho1{
+  font-size: 120px;
+  color: black;
+  text-shadow: 4px;
+  font-weight: bold;
+}
+
 
 .titulo11 {
   color: #B0C4DE!important;
